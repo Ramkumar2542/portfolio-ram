@@ -1,9 +1,4 @@
 import { motion } from "framer-motion";
-import { ArrowRight, Download, Github, Linkedin, Mail } from "lucide-react";
-import { CyberButton } from "@/components/ui/cyber-button";
-import Scene3D from "@/components/3D/Scene3D";
-import { Link } from "react-router-dom";
-
 const About = () => {
   const achievements = [
     { number: "7", label: "Years Experience" },
