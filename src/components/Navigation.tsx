@@ -28,7 +28,7 @@ const Navigation = () => {
         <div className="glass border-b border-border/20 px-6 py-4">
           <div className="flex items-center justify-between max-w-7xl mx-auto">
             <Link to="/" className="text-xl font-bold text-glow-primary">
-              Portfolio
+              RK
             </Link>
             
             <div className="flex items-center space-x-1">

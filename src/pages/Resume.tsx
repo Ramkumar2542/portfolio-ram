@@ -21,12 +21,12 @@ const Resume = () => {
 
     toast({
       title: "Resume Downloaded!",
-      description: "Ramkumar_Resume.pdf has been downloaded to your device.",
+      description: "Ramkumar_Profile has been downloaded to your device.",
     });
   };
 
   const handlePreview = () => {
-    window.open("/Ramkumar_Resume.pdf", "_blank");
+    window.open("Ramkumar_Profile.pdf", "_blank");
 
     toast({
       title: "Opening Preview",
@@ -123,8 +123,8 @@ const Resume = () => {
       "PrimeNG",
       "React",
     ],
-    Backend: ["REST APIs", "Node.js (Basics)", "NestJS", "Salesforce (Basics)"],
-    Tools: ["Git", "GitHub", "SourceTree", "Jenkins"],
+    Backend: ["REST APIs", "Node.js", "NestJS", "Salesforce (Basics)","MongoDB"],
+    Tools: ["Git", "GitHub", "SourceTree", "Jenkins","VS Code","AWS"],
     Methodologies: ["Agile", "CI/CD", "Code Quality (SonarQube)"],
     Languages: ["English", "Tamil"],
   };
@@ -211,13 +211,13 @@ const Resume = () => {
           >
             <h2 className="text-3xl font-bold text-primary mb-4">Ramkumar</h2>
             <p className="text-xl text-muted-foreground mb-6">
-              Senior Angular Developer
+              Frontend Developer
             </p>
 
             <div className="flex flex-wrap justify-center gap-6 text-sm text-muted-foreground">
               <div className="flex items-center space-x-2">
                 <Mail size={16} />
-                <span>ramkumar@example.com</span>
+                <span>ram001.svts@gmail.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone size={16} />
