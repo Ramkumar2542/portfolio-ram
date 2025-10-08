@@ -53,14 +53,13 @@ const Profiles = () => {
     {
       id: 3,
       platform: "Personal Website",
-      username: "ramkumar.dev",
+      username: "ramdevhub",
       description:
-        "My digital portfolio showcasing Angular 18 projects, blog posts, and case studies.",
+        "I am a passionate Frontend Developer specializing in Angular and modern web technologies. I build responsive, accessible, and high-performance web applications that deliver great user experiences.",
       stats: [
         { label: "Projects", value: "10+", icon: Code },
-        { label: "Visitors", value: "2k+", icon: Users },
       ],
-      profileUrl: "https://ramkumar.dev",
+      profileUrl: "https://ramdevhub.netlify.app/",
       color: "accent",
       verified: true,
     },

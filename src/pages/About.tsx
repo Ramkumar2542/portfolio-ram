@@ -69,7 +69,7 @@ const About = () => {
               <div className="text-center p-6 bg-surface-elevated rounded-xl border border-border/50">
                 <h3 className="font-semibold text-secondary mb-2">Tools</h3>
                 <p className="text-sm text-muted-foreground">
-                  Docker, AWS, Git, Figma, VS Code, Git, GitHub, SourceTree, Jenkins.
+                  Git, Figma, VS Code, Git, GitHub, SourceTree, Jenkins, AWS.
                 </p>
               </div>
             </div>

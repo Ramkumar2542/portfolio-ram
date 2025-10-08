@@ -9,7 +9,7 @@ interface Skill {
 
 interface SkillCategory {
   title: string;
-  icon: any;
+  icon:any;
   color: string;
   skills: Skill[];
 }
@@ -232,7 +232,7 @@ const Skills = () => {
         >
           {[
             { number: "7", label: "Years Experience", color: "primary" },
-            { number: "20+", label: "Technologies", color: "accent" },
+            { number: "10+", label: "Technologies", color: "accent" },
             { number: "3+", label: "Projects Completed", color: "secondary" },
             { number: "100%", label: "Client Satisfaction", color: "primary" },
           ].map((stat, index) => {

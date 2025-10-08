@@ -264,17 +264,6 @@ const Articles = () => {
               </motion.article>
             ))}
           </div>
-
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.6, delay: 0.8 }}
-            className="text-center mt-12"
-          >
-            <CyberButton variant="neon" size="lg" disabled>
-              Load More Articles
-            </CyberButton>
-          </motion.div>
         </motion.div>
       </div>
     </div>

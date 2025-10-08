@@ -44,7 +44,7 @@ const Hero = () => {
                 <span className="block text-foreground">Hi, I'm</span>
                 <span className="block text-glow-primary">Ramkumar</span>
                 <span className="block text-2xl md:text-3xl text-muted-foreground font-medium">
-                  Angular Developer
+                  Frontend Developer
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-2xl">
