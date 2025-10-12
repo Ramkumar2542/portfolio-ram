@@ -15,8 +15,8 @@ const Resume = () => {
   const { toast } = useToast();
   const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "/Ramkumar_Eswaran_Profile.pdf"; // file inside public/
-    link.download = "Ramkumar_Resume.pdf";
+    link.href = "/Ramkumar_Profile.pdf"; // file inside public/
+    link.download = "Ramkumar_Profile.pdf";
     link.click();
 
     toast({
@@ -171,8 +171,8 @@ const Resume = () => {
                 skills, and projects.
               </p>
               <div className="text-sm text-muted-foreground mb-6">
-                <p>Last updated: March 15, 2024</p>
-                <p>Format: PDF | Size: 2.3 MB</p>
+                <p>Last updated: October 12, 2025</p>
+                <p>Format: PDF | Size: 1.4 KB</p>
               </div>
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
@@ -241,7 +241,7 @@ const Resume = () => {
               Professional Summary
             </h3>
             <p className="text-muted-foreground leading-relaxed">
-              Skilled Angular Developer with 6+ years of experience building
+              Skilled Angular Developer with 7 years and 2 months of experience building
               responsive, scalable web applications. Proficient in Angular
               (v2–18), TypeScript, and RxJS, with a strong foundation in UI
               design, performance optimization, and REST API integration.

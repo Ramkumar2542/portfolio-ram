@@ -34,7 +34,7 @@ const Profiles = () => {
         "Open source contributor and maintainer. Building the future of web development one commit at a time.",
       stats: [{ label: "Repositories", value: "7", icon: GitBranch }],
       profileUrl: "https://github.com/Ramkumar2542",
-      color: "primary",
+      color: "accent",
       verified: true,
     },
     {
@@ -134,12 +134,10 @@ const Profiles = () => {
           className="text-center mb-12"
         >
           <h1 className="text-4xl md:text-5xl font-bold text-glow-primary mb-4">
-            Coding Profiles
+          Professional Network
           </h1>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            Explore my coding journey across various platforms. From competitive
-            programming to open source contributions, here's where you can find
-            my work and progress.
+          Discover my professional presence across coding and development platforms. Explore my projects, collaborations, and open-source contributions.
           </p>
         </motion.div>
 

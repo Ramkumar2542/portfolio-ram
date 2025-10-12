@@ -44,26 +44,26 @@ const About = () => {
               About Me
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed">
-            Skilled Angular Developer with 6+ years of experience building
-                responsive, scalable web applications. Proficient in Angular
-                (v2–18), TypeScript, and RxJS, with a strong foundation in UI
-                design, performance optimization, and REST API integration.
-                Experienced in Agile environments, CI/CD pipelines, and
-                cross-functional collaboration. Adept at mentoring junior
-                developers and delivering high-quality, user-centric solutions.
+              Skilled Angular Developer with 7 years and 2 months of experience
+              in building responsive, scalable web applications. Proficient in
+              Angular (v2–18), TypeScript, and RxJS, with a strong foundation in
+              UI design, performance optimization, and REST API integration.
+              Experienced in Agile environments, CI/CD pipelines, and
+              cross-functional collaboration. Adept at mentoring junior
+              developers and delivering high-quality, user-centric solutions.
             </p>
             <div className="grid md:grid-cols-3 gap-6 mt-8">
               <div className="text-center p-6 bg-surface-elevated rounded-xl border border-border/50">
                 <h3 className="font-semibold text-primary mb-2">Frontend</h3>
                 <p className="text-sm text-muted-foreground">
-                Angular (2–18), TypeScript, JavaScript, RxJS, NgRx, Redux, HTML5, SASS, CSS3, Angular
-                Material, PrimeNG, React.
+                  Angular (2–18), TypeScript, JavaScript, RxJS, NgRx, Redux,
+                  HTML5, SASS, CSS3, Angular Material, PrimeNG, React.
                 </p>
               </div>
               <div className="text-center p-6 bg-surface-elevated rounded-xl border border-border/50">
                 <h3 className="font-semibold text-accent mb-2">Backend</h3>
                 <p className="text-sm text-muted-foreground">
-                REST APIs, Node.js, NestJS, Salesforce, MongoDB.
+                  REST APIs, Node.js, NestJS, Salesforce, MongoDB.
                 </p>
               </div>
               <div className="text-center p-6 bg-surface-elevated rounded-xl border border-border/50">
